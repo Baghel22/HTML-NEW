@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>html form</title>
+</head>
+<body>
+   
+    <h1> Student  Registration Form </h1>
+    <form>
+        <label> PERSONAL DETAILS </label><br>
+      
+				<label for="FirstName">First Name:</label><br>
+				<input type="text" size="20" name="FirstName" id="FirstName" title="First Name"
+                placeholder="FirstName"><br>
+			
+				<label for="LastName">Last Name:</label><br>
+				<input type="text" size="20" name="LastName" id="LastName" title="Last Name"
+                placeholder="LastName"><br>
+			
+          
+             Gender:<br>
+				<input type="radio" name="gender" >Male<br>
+                <input type="radio" name="gender" >Female<br>
+          
+          
+				<label for="DOB"> DOB:</label><br>
+				<input type="date"  ><br>
+			
+				<label for="Address"> Address:</label><br>
+				<textarea rows="3" cols="20"></textarea><br>
+			
+				<label for="City">City:</label><br>
+				<input type="text" size="20" name="City" id="City" title="City" placeholder="City"><br>
+			
+				<label for="State">State:</label><br>
+				<input type="text" size="20" name="State" id="State" title="State" placeholder="state">
+		
+			
+			
+				<label for="Contact No">Contact No :</label><br>
+				<input type="tel" size="20" name="contact no " id="contact no " title="contact no ">
+                <br>
+				<label for="Email">Email Address:</label>
+				<input type="email" size="20" name="Email" id="Email" title="Email Address" placeholder="email">
+                <br>
+				
+		
+        <label> EDUCATIONAL DETAILS </label><br>
+
+    </form>
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>html form</title>
+</head>
+<body>
+   
+    <h1> Student  Registration Form </h1>
+    <form>
+        <label> PERSONAL DETAILS </label><br>
+      
+				<label for="FirstName">First Name:</label><br>
+				<input type="text" size="20" name="FirstName" id="FirstName" title="First Name"
+                placeholder="FirstName"><br>
+			
+				<label for="LastName">Last Name:</label><br>
+				<input type="text" size="20" name="LastName" id="LastName" title="Last Name"
+                placeholder="LastName"><br>
+			
+          
+             Gender:<br>
+				<input type="radio" name="gender" >Male<br>
+                <input type="radio" name="gender" >Female<br>
+          
+          
+				<label for="DOB"> DOB:</label><br>
+				<input type="date"  ><br>
+			
+				<label for="Address"> Address:</label><br>
+				<textarea rows="3" cols="20"></textarea><br>
+			
+				<label for="City">City:</label><br>
+				<input type="text" size="20" name="City" id="City" title="City" placeholder="City"><br>
+			
+				<label for="State">State:</label><br>
+				<input type="text" size="20" name="State" id="State" title="State" placeholder="state">
+		
+			
+			
+				<label for="Contact No">Contact No :</label><br>
+				<input type="tel" size="20" name="contact no " id="contact no " title="contact no ">
+                <br>
+				<label for="Email">Email Address:</label>
+				<input type="email" size="20" name="Email" id="Email" title="Email Address" placeholder="email">
+                <br>
+				
+		
+        <label> EDUCATIONAL DETAILS </label><br>
+
+    </form>
+</body>
+</html>
